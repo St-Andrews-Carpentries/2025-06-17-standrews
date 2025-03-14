@@ -183,6 +183,11 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p id="registration">
+  <strong>Registration:</strong> Register using the University's <a href="https://www.st-andrews.ac.uk/pdms/index.php?mode=single&query=15144">Personal Development Management System</a>.
+</p>
+
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
